@@ -1,0 +1,12 @@
+{
+  "name": "node-todo",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:tyysun/node-todo.git",
+  "author": "tyysun <tyysun@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "inquirer": "^7.2.0"
+  }
+}
