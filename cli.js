@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+// chmod +x cli.js
 const program = require("commander")
 const api = require("./index.js")
 
